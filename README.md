@@ -5,8 +5,10 @@ The following work was done as part of project for 'Neural Implants and Interfac
 
 ### Model implemented
 <p float="left">
-<img src='figures/model.png' width='540px' height='400px' />
+<img src='figures/model.png' width='600px' height='400px' />
  </p>
+<sub><sup>Source: https://doi.org/10.1007/978-3-319-60304-9_2</sub></sup>
+
  
 ### Input signal representing pain sensation to Dorsal Horn Circuit
 <p float="left">
